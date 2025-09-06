@@ -5,3 +5,6 @@
 .terraform/
 .terraform.lock.hcl
 *.tfplan
+terraform_Infra/environments/dev/terraform_1.12.1_linux_amd64.zip
+terraform_Infra/environments/dev/LICENSE.txt
+terraform_Infra/environments/dev/aws
